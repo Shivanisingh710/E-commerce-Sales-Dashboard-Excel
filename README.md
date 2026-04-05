@@ -1,4 +1,4 @@
-# E-commerce-Sales-Dashboard-Excel
+# E-commerce-Sales-Dashboard (Excel)
 This project presents an interactive Excel dashboard designed to analyze sales performance, discount impact, customer behavior, and delivery efficiency.
 
 The dashboard combines multiple KPIs and visualizations to provide a comprehensive view of business performance. It helps identify revenue trends, evaluate discount strategies, track top-performing products and customers, and assess delivery operations.
