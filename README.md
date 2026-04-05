@@ -7,8 +7,8 @@ The dashboard combines multiple KPIs and visualizations to provide a comprehensi
 
 * Revenue analysis using post-discount (net sales) values
 * Discount impact evaluation through average sales comparison
-* Revenue Realization KPI to measure actual earnings retained (~94.5%)
-* Customer insights including total customers and top 10 customers by sales
+* Revenue Realization KPI to measure actual earnings retained (~94.6%)
+* Customer insights including total customers and top 3 customers by sales
 * Product performance analysis (top-selling and highest revenue products)
 * City-wise sales distribution to identify key markets
 * Delivery performance tracking (on-time vs late orders)
@@ -20,7 +20,7 @@ The dashboard combines multiple KPIs and visualizations to provide a comprehensi
 * Monthly Sales Trend (line chart)
 * City-wise Revenue Analysis
 * Top 5 Products
-* Top 10 Customers
+* Top 3 Customers
 * Delivery Performance Breakdown
 
 ## Interactivity
@@ -36,8 +36,8 @@ These enable dynamic filtering and deeper analysis across multiple dimensions.
 
 ## Key Insights
 
-* Average sales drop from ₹728 to ₹688 due to discounts (~5.5% impact)
-* Revenue realization is ~94.5%, indicating controlled discounting
+* Average sales drop from ₹729 to ₹689 due to discounts (~5.4% impact)
+* Revenue realization is ~94.6%, indicating controlled discounting
 * Certain cities and products contribute significantly to total revenue
 * Delivery performance is generally efficient, with scope for reducing late deliveries
 
